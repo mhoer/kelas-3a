@@ -2,8 +2,6 @@
 - Sistem informasi manajemen
 - Akuntansi dasar dan praktik
 - statistika
-- Install CI
-- belajar Framework
 Pustaka Booking
 -Fitur Login
 -Fitur Peminjaman
