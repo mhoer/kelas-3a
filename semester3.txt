@@ -4,3 +4,8 @@
 - statistika
 - Install CI
 - belajar Framework
+Pustaka Booking
+-Fitur Login
+-Fitur Peminjaman
+-Daftar Buku
+-Pengembalian
