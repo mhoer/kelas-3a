@@ -9,3 +9,5 @@ Pustaka Booking
 -Fitur Peminjaman
 -Daftar Buku
 -Pengembalian
+-Peminjaman Jurnal
+-Beli Buku
