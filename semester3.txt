@@ -2,3 +2,6 @@
 - Sistem operasi
 - Pemodelan Sistem berbasis objek
 - Chacarcter Building
+- Sistem informasi manajemen
+- Akuntansi dasar dan praktik
+- statistika
