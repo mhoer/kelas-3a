@@ -2,8 +2,8 @@
 - Sistem informasi manajemen
 - Akuntansi dasar dan praktik
 - statistika
-- Install CI
-- belajar Framework
+- Install CI mna
+- belajar Framework dasar
 Pustaka Booking
 -Fitur Login
 -Fitur Peminjaman
