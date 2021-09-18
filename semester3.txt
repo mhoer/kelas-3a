@@ -10,6 +10,6 @@ Pustaka Booking
 -Daftar Buku
 -Pengembalian
 -Jurnal
--ikan
--Beli Buku
+-ikan cupang
+-Beli Buku 
 EDit sama gue nih
